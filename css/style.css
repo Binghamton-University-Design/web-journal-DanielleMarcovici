@@ -43,6 +43,7 @@ aside {
 body {
   margin: 0 auto;
   max-width: 960px;
+  font-family: 'Manjari', sans-serif;
 }
 
 #masthead, #footer {
@@ -68,6 +69,16 @@ p {
 img {
   width: 100%;
   height: auto;
+}
+img.icon {
+  max-width: auto;
+}
+
+@media (max-width: 700px) {
+
+img.icon {
+  width: 100%;
+}
 }
 
 h1, h2, h3, h4 {
