@@ -43,6 +43,7 @@ aside {
 body {
   margin: 0 auto;
   max-width: 960px;
+  background-color: 
   font-family: 'Manjari', sans-serif;
 }
 
@@ -79,7 +80,7 @@ img.icon {
 img.icon {
   width: 100%;
 }
-}
+}1
 
 h1, h2, h3, h4 {
   margin-top: 0;
